@@ -2,4 +2,9 @@
     <string name="app_name">Fragment</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="launch_dialog">Launch Dialog</string>
+    <string name="use_this_location">Use this location?</string>
+    <string name="disagree">Disagree</string>
+    <string name="agree">Agree</string>
+    <string name="text_display">Let us help apps determine location. This means sending anonymous location data to us, even when no apps are running.</string>
 </resources>
