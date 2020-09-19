@@ -7,4 +7,11 @@
     <string name="disagree">Disagree</string>
     <string name="agree">Agree</string>
     <string name="text_display">Let us help apps determine location. This means sending anonymous location data to us, even when no apps are running.</string>
+    <string name="team1">Team 1</string>
+    <string name="initail_count">0</string>
+    <string name="plus_button_description">plus</string>
+    <string name="remove_button_description">Minus</string>
+    <string name="team2">Team 2</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
 </resources>
