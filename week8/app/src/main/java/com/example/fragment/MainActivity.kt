@@ -25,6 +25,10 @@ class MainActivity : AppCompatActivity() {
             intent = Intent(this,Scorekeeper::class.java)
             startActivity(intent)
         }
+        btn_recycler.setOnClickListener{
+            intent = Intent(this,RecyclerListUsers::class.java)
+            startActivity(intent)
+        }
 
 
     }
